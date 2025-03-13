@@ -103,3 +103,8 @@ Desain aplikasi ini terinspirasi dari beberapa sumber:
 4. Booking App Interfaces - untuk sistem tanggal dan durasi penyewaan
 
 Aplikasi ini dikembangkan sebagai project pembelajaran untuk Flutter UI dan didesain dengan fokus pada desain interface pengguna saja untuk penyewaan alat perkemahan.
+
+## Dokumentasi
+![alt text](halaman_utama.png)
+![alt text](halaman_chat.png)
+![alt text](halaman_keranjang.png)

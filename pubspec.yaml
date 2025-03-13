@@ -1,5 +1,5 @@
-name: flutter_documentation
-description: "A new Flutter project."
+name: CampEase
+description: "CampEase adalah aplikasi berbasis Flutter yang didesain untuk memudahkan pengguna dalam menyewa peralatan perkemahan."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
