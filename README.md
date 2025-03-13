@@ -1,7 +1,7 @@
 # Kuis 1 Mata Kuliah Pemrograman Visual
 
 ## Deskripsi Aplikasi
-Aplikasi Penyewaan Alat Perkemahan adalah aplikasi berbasis Flutter yang didesain untuk memudahkan pengguna dalam menyewa peralatan perkemahan. Kami membuat UI statis untuk menunjukkan seperti apa desain yang akan dibuat pada aplikasi dengan mempertimbangkan banyak hal termasuk pain points dari sudut pandang pengguna dengan beberapa persona.
+CampEase adalah aplikasi berbasis Flutter yang didesain untuk memudahkan pengguna dalam menyewa peralatan perkemahan. Kami membuat UI statis untuk menunjukkan seperti apa desain yang akan dibuat pada aplikasi dengan mempertimbangkan banyak hal termasuk pain points dari sudut pandang pengguna dengan beberapa persona.
 
 ## Halaman dan Fitur
 Aplikasi terdiri dari beberapa halaman utama dengan navigasi utama dibagian bawah pada home page:
